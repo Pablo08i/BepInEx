@@ -100,9 +100,7 @@
        gradientTransform="matrix(0,-48,-48,0,94,56)"
        spreadMethod="pad"
        id="linearGradient164"><stop
-         style="stop-opacity:1;stop-color:#914d36"
-         offset="0"
-         id="stop160" /><stop
+    " /><stop
          style="stop-opacity:1;stop-color:#513c35"
          offset="1"
          id="stop162" /></linearGradient></defs><sodipodi:namedview
